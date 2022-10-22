@@ -1,0 +1,21 @@
+.transactions-count {
+  box-shadow: 0 0 2px gray;
+  padding: 15px;
+  border-radius: 15px;
+  color: rgb(56, 55, 55);
+}
+
+.analytics h4 {
+  font-size: 25px;
+}
+
+.analytics h5 {
+  font-size: 18px;
+}
+
+.category-card {
+  padding: 10px;
+  margin: 20px;
+  box-shadow: 0 0 2px gray;
+  border-radius: 10px;
+}
