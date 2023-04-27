@@ -1,0 +1,3 @@
+[submodule "money-gestion-back"]
+	path = money-gestion-back
+	url = https://github.com/AlexRepaire/money-gestion-back.git
